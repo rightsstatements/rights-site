@@ -20,7 +20,7 @@ Oświadczenia prawne zostały opracowane wyłącznie na potrzeby instytucji dzie
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>Objęty Pełną Ochroną Prawnoautorską</h3></a>
       <a href="#collection-ic">
-        <img src="{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
       </a>
       <p>Oświadczenia dla utworów, które są objęte pełną ochroną prawnoautorską</p>
     </div>
@@ -29,7 +29,7 @@ Oświadczenia prawne zostały opracowane wyłącznie na potrzeby instytucji dzie
     <div class="statements-category-teaser">
       <a href="#collection-nc"><h3>Nie Objęty Ochroną Autorskich Praw Majątkowych</h3></a>
       <a href="#collection-nc">
-        <img src="{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
       </a>
       <p>Oświadczenia dla utworów, które nie są objęte ochroną autorskich praw majątkowych</p>
     </div>
@@ -38,7 +38,7 @@ Oświadczenia prawne zostały opracowane wyłącznie na potrzeby instytucji dzie
     <div class="statements-category-teaser">
       <a href="#collection-other"><h3>Pozostałe</h3></a>
       <a href="#collection-other">
-        <img src="{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
       </a>
       <p>Oświadczenia dla utworów z niejasnym statusem prawnoautorskim</p>
     </div>

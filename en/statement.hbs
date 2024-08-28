@@ -28,7 +28,8 @@
             <div class="row statement-main">
                 <div class="large-4 columns">
                     <div class="statement-iconcolumn">
-                        <img src="{% endraw %}{{ site.canonical_url }}{% raw %}/files/buttons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />
+{{!--                          <img src="{% endraw %}{{ site.canonical_url }}{% raw %}/files/buttons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />  --}}
+                        <img src="{% endraw %}{{ site.url }}{% raw %}/files/buttons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />
                     </div>
                 </div>
                 <div class="large-8 columns">

@@ -6,7 +6,9 @@
         <div class="row">
           <div class="large-4 columns">
             <div class="statement-iconcolumn">
-              <a href="http://rightsstatements.org/page/{{ identifier }}/{% endraw %}{{ site.rights_data_version }}/?language={{ page.lang }}"><img src="{{ site.baseurl }}{% raw %}/files/buttons/{{ identifier }}.white.svg" title="{{ prefLabel.[@value] }}" /></a>
+              <a href="http://rightsstatements.org/page/{{ identifier }}/{% endraw %}{{ site.rights_data_version }}/?language={{ page.lang }}">
+                <img src="{{ site.url }}{% raw %}/files/buttons/{{ identifier }}.white.svg" title="{{ prefLabel.[@value] }}" />
+              </a>
             </div>
           </div>
           <div class="large-8 columns">

@@ -6,7 +6,7 @@ WORKDIR /app
 EXPOSE 4000
 RUN bundle install && jekyll build
 
-CMD ["jekyll", "serve", "--host", "0.0.0.0"]
+CMD ["jekyll", "serve", "-c","_config.yml,_environment.yml","--host", "0.0.0.0"]
 
 #FROM nginx:1.19.2-alpine AS final
 #COPY --from=build /app/_site /usr/share/nginx/html

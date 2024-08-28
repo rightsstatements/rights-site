@@ -21,7 +21,7 @@ Käyttöoikeuskuvaukset on suunniteltu erityisesti kulttuuriperintölaitosten ja
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>Tekijänoikeuden piirissä</h3></a>
       <a href="#collection-ic">
-        <img src="{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
       </a>
       <p>Kuvaukset tekijänoikeuden suojaamille teoksille</p>
     </div>
@@ -30,7 +30,7 @@ Käyttöoikeuskuvaukset on suunniteltu erityisesti kulttuuriperintölaitosten ja
     <div class="statements-category-teaser">
       <a href="#collection-nc"><h3>Ei tekijänoikeutta</h3></a>
       <a href="#collection-nc">
-        <img src="{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
       </a>
       <p>Kuvaukset teoksille, joita tekijänoikeus ei suojaa</p>
     </div>
@@ -39,7 +39,7 @@ Käyttöoikeuskuvaukset on suunniteltu erityisesti kulttuuriperintölaitosten ja
     <div class="statements-category-teaser">
       <a href="#collection-other"><h3>Muut</h3></a>
       <a href="#collection-other">
-        <img src="{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
       </a>
       <p>Kuvaukset teoksille, joiden tekijänoikeudellinen status on epäselvä</p>
     </div>
