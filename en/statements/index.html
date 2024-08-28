@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
   <html lang="en-US">
   <head>
@@ -6,62 +8,62 @@
     <script language="javascript">
       var user_language = (navigator.language || navigator.userLanguage).split('-')[0];
       var enabled_languages = [];
-      
-        
+
+
           enabled_languages.push("en");
-        
-      
-        
+
+
+
           enabled_languages.push("ca");
-        
-      
-        
+
+
+
           enabled_languages.push("de");
-        
-      
-        
+
+
+
           enabled_languages.push("es");
-        
-      
-        
+
+
+
           enabled_languages.push("et");
-        
-      
-        
+
+
+
           enabled_languages.push("fi");
-        
-      
-        
+
+
+
           enabled_languages.push("fr");
-        
-      
-        
+
+
+
           enabled_languages.push("hi");
-        
-      
-        
+
+
+
           enabled_languages.push("hr");
-        
-      
-        
+
+
+
           enabled_languages.push("lt");
-        
-      
-        
+
+
+
           enabled_languages.push("pl");
-        
-      
+
+
       var default_language = "en";
       if (enabled_languages.indexOf(user_language) != -1) {
-        window.location.href = "/page/1.0/?language=" + user_language;
+        window.location.href = "{{ site.app_url }}/page/1.0/?language=" + user_language;
       } else {
-        window.location.href = "/page/1.0/?language=" + default_language + "/";
+        window.location.href = "{{ site.app_url }}/page/1.0/?language=" + default_language + "/";
       }
     </script>
     <title>Page Redirection</title>
   </head>
   <body>
     If you are not redirected automatically, please click the link to continue to
-    <a href="/en/">/en/</a>.
+    <a href="{{ site.app_url }}/en/">/en/</a>.
   </body>
 </html>

@@ -1,6 +1,7 @@
 name: rightsstatements.org
 url: //rightsstatements.org
 canonical_url: //rightsstatements.org
+app_url :
 markdown: kramdown
 kramdown:
   parse_block_html: true
