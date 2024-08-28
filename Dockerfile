@@ -1,6 +1,7 @@
 FROM ruby:3.3.4-bullseye AS build
 COPY . /app
 WORKDIR /app
+EXPOSE 4000
 RUN bundle install \
     && jekyll build
 
