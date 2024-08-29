@@ -29,20 +29,20 @@
           {% if item.path contains "//" %}
             {% capture href %}{{ item.path }}{% endcapture %}
           {% else %}
-            {% capture href %}{{ site.baseurl }}/{{ page.lang }}{{ item.path }}{% endcapture %}
+            {% capture href %}{{ site.url }}/{{ page.lang }}{{ item.path }}{% endcapture %}
           {% endif %}
           {% if item.children and site.default_language == page.lang %}
               <li class="has-dropdown {{active_class}}"><a href="{{ href }}">{{ label }}</a>
               <ul class='dropdown'>
-                {% for child in item.children %}
+                {% for child in item.Children %}
                   {% capture child_path %}{{ child.path | replace: 'rights_data_version', site.rights_data_version }}{% endcapture %}
                   {% if child_path contains "//" %}
                     {% capture child_href %}{{ child_path }}{% endcapture %}
                   {% else %}
-                    {% capture child_href %}{{ site.baseurl }}/{{ page.lang }}{{ child_path }}{% endcapture %}
+                    {% capture child_href %}{{ site.url }}/{{ page.lang }}{{ child_path }}{% endcapture %}
                   {% endif %}
                   <li>
-                    <a href="{{ child_href }}">{{ child.name }}</a>
+                    <a href="{{ child_href }}">{{ child.name }}{{ site.url }}</a>
                   </li>
                 {% endfor %}
               </ul>
