@@ -28,24 +28,24 @@ The rightsstatements.org consortium is a member based organisation - currently c
 
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
+[![Digital Public Library of America]({{site.url}}/files/images/dpla-logo.jpg)](http://dp.la/)
 </div>
 <div class="medium-4 columns logo">
-[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
+[![Europeana]({{site.url}}/files/images/europeana-logo.svg)](http://europeana.eu/)
 </div>
 <div class="medium-4 columns logo">
-[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
+[![National Digital Library of India]({{site.url}}/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
 </div>
 </div>
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-[![National Heritage Digitization Strategy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
+[![National Heritage Digitization Strategy]({{site.url}}/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
 </div>
 <div class="medium-4 columns logo">
-[![Trove](/files/images/Trove logo 202010.png)](https://trove.nla.gov.au)
+[![Trove]({{site.url}}/files/images/Trove logo 202010.png)](https://trove.nla.gov.au)
 </div>
 <div class="medium-4 columns logo">
-[![National Library of New Zealand](/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
+[![National Library of New Zealand]({{site.url}}/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
 </div>
 </div>
 </div>
@@ -54,7 +54,7 @@ The development of the consortium is overseen by a Steering Committee.  The deve
 
 The Steering Committee made up of 11 representatives of the members, and includes the co-chairs of the working groups.  Seats on the Committee, including the chair and vice chair, are fixed for two years, renewable consecutively once.  The Committee meets bi-monthly, and holds one in-person meeting annually.
 
-The first annual meeting of the Steering Committee was held in September 2017, at the offices of Europeana Foundation, The Hague, Netherlands. The minutes of that meeting are publicly [available here](https://docs.google.com/document/d/1FHgxm9YF4ZWBtcDRjfBvcm8SG984cS1bVhPLpmTXQ28/). 
+The first annual meeting of the Steering Committee was held in September 2017, at the offices of Europeana Foundation, The Hague, Netherlands. The minutes of that meeting are publicly [available here](https://docs.google.com/document/d/1FHgxm9YF4ZWBtcDRjfBvcm8SG984cS1bVhPLpmTXQ28/).
 
 Chair: Julia Fallon, Europeana Foundation
 
@@ -78,21 +78,21 @@ Coordinator: Ariadna Matas, Europeana Foundation
 
 The Consortium Steering Committee prepares annual work plans to structure its work and steps towards achieving its objectives:
 
-[Work Plan for 2019](https://rightsstatements.org/files/190812_workplan.pdf)
+[Work Plan for 2019]({{site.url}}/files/190812_workplan.pdf)
 
-[Work Plan for 2020](https://rightsstatements.org/files/rights-statements-2020-work-plan.pdf)
+[Work Plan for 2020]({{site.url}}/files/rights-statements-2020-work-plan.pdf)
 
-[Work Plan for 2021](https://rightsstatements.org/files/rights-statements-2021-work-plan.pdf)
+[Work Plan for 2021]({{site.url}}/files/rights-statements-2021-work-plan.pdf)
 
 ## Working Groups
 
-Two working groups take forward the basic principles and  technical infrastructure that was developed by DPLA and Europeana-based working groups.  Each group is led by two co-chairs, and is comprised of individuals with  knowledge and expertise in their respective fields. Members of the working group have a dual role of represent the members of the consortium as well as the needs of cultural heritage organisations.  
+Two working groups take forward the basic principles and  technical infrastructure that was developed by DPLA and Europeana-based working groups.  Each group is led by two co-chairs, and is comprised of individuals with  knowledge and expertise in their respective fields. Members of the working group have a dual role of represent the members of the consortium as well as the needs of cultural heritage organisations.
 
 There are currently two active working groups. The International Rights Statements Working Group and the Technical Working Group.
 
 ### International Rights Statements Working Group
 
-The task of the International Rights Statements Working Group is to steward the development of the rights statements offered by RightsStatements.org. Its main purpose is to ensure that the rights statements address the needs of cultural heritage institutions and aggregation platforms while ensuring that the conform to the design principles identified in the white paper "[Recommendations for Standardized International Rights Statements](/en/documentation/rights-statements-white-paper/)".
+The task of the International Rights Statements Working Group is to steward the development of the rights statements offered by RightsStatements.org. Its main purpose is to ensure that the rights statements address the needs of cultural heritage institutions and aggregation platforms while ensuring that the conform to the design principles identified in the white paper "[Recommendations for Standardized International Rights Statements]({{site.url}}/en/documentation/rights-statements-white-paper/)".
 
 The International Rights Statements Working Group is chaired by Greg Cram (Associate Director of Copyright & Intellectual Property, New York Public Library) and co-chaired by Jessica Coates (Executive Officer, Australian Digital Alliance), and has the following members:
 
@@ -101,7 +101,7 @@ The International Rights Statements Working Group is chaired by Greg Cram (Assoc
 * Julia Fallon, Community and Partner Engagement Manager Europeana Foundation;
 * David Hansen, Assistant Clinical Professor & Faculty Research Librarian, UNC School of Law;
 * Paul Keller, independent policy advisor;
-* Kim Gutchlag, Manager Collection Development and Description, National Library of New Zealand; 
+* Kim Gutchlag, Manager Collection Development and Description, National Library of New Zealand;
 * Dave Hansen, Associate University Librarian for Research, Collections and Scholarly Communication;
 * Melissa Levine, Lead Copyright Officer, University of Michigan Library;
 * Sarah Severson, Digital Initiatives Project Librarian, University of Alberta Library;
@@ -110,7 +110,7 @@ The International Rights Statements Working Group is chaired by Greg Cram (Assoc
 
 ### Technical Working Group
 
-The task of Technical Working Group is to develop and maintain the technical infrastructure and data model that powers the rights statements offered by RightsStatements.org, as defined in the white paper "[Requirements for the Technical Infrastructure for Standardized International Rights Statements](/en/documentation/technical-white-paper/)".
+The task of Technical Working Group is to develop and maintain the technical infrastructure and data model that powers the rights statements offered by RightsStatements.org, as defined in the white paper "[Requirements for the Technical Infrastructure for Standardized International Rights Statements]({{site.url}}/en/documentation/technical-white-paper/)".
 
 The Technical Working Group is chaired by Mark Matienzo (Stanford University Libraries) and Antoine Isaac (Europeana) and has the following members:
 
@@ -130,9 +130,10 @@ RightsStatements.org has been realized with the support from:
 
 <div class="row">
 <div class="medium-4 columns">
-[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
+[![The John S. and James L. Knight Foundation]({{site.url}}/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
 </div>
 <div class="medium-4 columns">
-[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
+[![Co-Financed by the European Union - Connecting Europe Facility]({{site.url}}/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
+</div>
 </div>
 </div>
