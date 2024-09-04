@@ -22,7 +22,7 @@ lang: en
 
 - Who came up with these statements and why?
 
-    RightsStatements.org is a joint initiative of [Europeana](http://www.europeana.edu/) and the [Digital Public Library of America](http://dp.la/) (DPLA). They build on a set of rights statements that Europeana has developed as part of the [Europeana Licensing Framework](http://pro.europeana.eu/page/europeana-licensing-framework). In order to ensure that the rights information on both Europeana and the DPLA is interoperable both institutions have taken the initiative to develop a set of rights statements that is independent of a particular platform. We hope that this will allow similar projects around the globe to adopt these rights statements so that they become a global standard for interoperable rights information.
+    RightsStatements.org is a joint initiative of [Europeana](https://www.europeana.eu/) and the [Digital Public Library of America](http://dp.la/) (DPLA). They build on a set of rights statements that Europeana has developed as part of the [Europeana Licensing Framework](http://pro.europeana.eu/page/europeana-licensing-framework). In order to ensure that the rights information on both Europeana and the DPLA is interoperable both institutions have taken the initiative to develop a set of rights statements that is independent of a particular platform. We hope that this will allow similar projects around the globe to adopt these rights statements so that they become a global standard for interoperable rights information.
 
 ## For cultural heritage institutions
 
