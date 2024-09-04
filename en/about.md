@@ -9,7 +9,7 @@ filename: about
 
 We believe that everyone should be able to engage with their cultural heritage online, and we are not alone in this - libraries, archives and museums around the world are also looking for ways to improve access to and reuse of their digital collections.
 
-We want to help cultural heritage institutions work towards this vision by making it easier for users to understand what they can do with a digital object they discover.  Our work is driven by the absence of a global approach to addressing this.  No other systems meet the specific needs of a broad range of cultural heritage organisations, which has led to a proliferation of terms. This has led to confusion for the organisations and the users.
+We want to help cultural heritage institutions work towards this vision by making it easier for users to understand what they can do with a digital object they discover. Our work is driven by the absence of a global approach to addressing this. No other systems meet the specific needs of a broad range of cultural heritage organisations, which has led to a proliferation of terms. This has led to confusion for the organisations and the users.
 
 ## Providing standardised interoperable rights and reuse information
 
@@ -21,7 +21,7 @@ The rights statements are not just about the making things easier for the user. 
 
 ## A collaborative approach to governance which ensures the consortium meets the needs of the cultural heritage sector
 
-The rightsstatements.org consortium is a member based organisation - currently comprising of 6 continental and international aggregators.  Each members contributes an annual fee, and provides in-kind support.
+The rightsstatements.org consortium is a member based organisation - currently comprising of 6 continental and international aggregators. Each members contributes an annual fee, and provides in-kind support.
 
 <div class="box">
 ### Consortium members
