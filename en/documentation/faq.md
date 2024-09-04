@@ -60,6 +60,6 @@ lang: en
 
 - Will the rights statements be translated into other languages?
 
-    The rights statements and the underlying infrastructure have been designed with internationalisation support in mind. At the moment the rights statements are only available in English. Please refer to the [translations page]({{site.url}}/en/documentation/translations.html) to learn more about ongoing translations and our translation policy. If you are interested in helping with a translation please [get in touch with us]({{site.app_url}}/en/get_involved.html).
+     The rights statements and the underlying infrastructure have been designed with internationalisation support in mind. At the moment the rights statements are only available in English. Please refer to the [translations page]({{site.url}}/en/documentation/translations.html) to learn more about ongoing translations and our translation policy. If you are interested in helping with a translation please [get in touch with us]({{site.url}}/en/get_involved.html).
 
 </div>
