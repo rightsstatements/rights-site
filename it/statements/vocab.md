@@ -13,7 +13,7 @@ RightsStatements.org al momento fornisce 12 diverse dichiarazioni di diritti che
 Le dichiarazioni di diritti sono state sviluppate appositamente per i bisogni delle istituzioni culturali e delle piattaforme di aggregazione per il patrimonio culturale online e non sono destinate ad essere utilizzate dai singoli per concedere in licenza le proprie creazioni. (Gli utenti che sono alla ricerca di uno strumento per concedere in licenza le proprie opere sono invitati a considerare una delle [licenze Creative Commons](https://creativecommons.org/licenses/){:target="_blank"}).
 
 <div class="box">
-## Tre categorie di dichiarazioni di diritti 
+## Tre categorie di dichiarazioni di diritti
 
 <div class="row" markdown="0">
 <div class="medium-4 columns">
@@ -45,7 +45,7 @@ Le dichiarazioni di diritti sono state sviluppate appositamente per i bisogni de
 </div>
 </div>
 <div>
-<p>Le dichiarazioni di diritti rientrano in tre categorie: dichiarazioni per opere che sono protette dal diritto d'autore, dichiarazioni per opere che non sono protette dal diritto d'autore e dichiarazioni per opere il cui diritto d'autore è incerto. Le dichiarazioni forniscono agli utenti finali informazioni di alto livello e di facile comprensione sul diritto d'autore e sulle possibilità di riuso degli oggetti digitali. Ad eccezione delle due dichiarazioni per gli oggetti con diritto d'autore incerto, queste dichiarazioni dovrebbero essere applicate solo dopo aver stabilito il diritto d'autore di un'opera. Maggiori informazioni su come applicare le dichiarazioni di diritti sono disponibili nella [sezione documentazione](/en/documentation).</p>
+<p>Le dichiarazioni di diritti rientrano in tre categorie: dichiarazioni per opere che sono protette dal diritto d'autore, dichiarazioni per opere che non sono protette dal diritto d'autore e dichiarazioni per opere il cui diritto d'autore è incerto. Le dichiarazioni forniscono agli utenti finali informazioni di alto livello e di facile comprensione sul diritto d'autore e sulle possibilità di riuso degli oggetti digitali. Ad eccezione delle due dichiarazioni per gli oggetti con diritto d'autore incerto, queste dichiarazioni dovrebbero essere applicate solo dopo aver stabilito il diritto d'autore di un'opera. Maggiori informazioni su come applicare le dichiarazioni di diritti sono disponibili nella [sezione documentazione]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

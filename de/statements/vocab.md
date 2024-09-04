@@ -46,7 +46,7 @@ Die Rechtehinweise wurden speziell für die Bedürfnisse der Kulturerbeeinrichtu
 </div>
 <div>
   <p>Es gibt drei unterschiedliche Kategorien von Rechtehinweisen:
-Hinweise für Werke, die urheberrechtlich geschützt sind, Hinweise für Werke, die nicht urheberrechtlich geschützt sind, und Hinweise für Werke, deren Urheberrechtsschutz unklar ist. Die Hinweise versorgen Nutzer mit einfach zu verstehenden Informationen über den Urheberrechtsschutz und Weiterverwendungs-Status der digitalen Objekte. Mit Ausnahme der beiden Hinweise für digitale Objekte, deren Urheberrechtsschutz unklar ist, sollten diese Hinweise erst verwendet werden, wenn der Urheberrechtsschutz des Werkes einwandfrei festgestellt wurde. Weitergehende Informationen darüber, wie die Rechtehinweise angewandt werden, finden Sie in [der Dokumentation](/en/documentation).</p>
+Hinweise für Werke, die urheberrechtlich geschützt sind, Hinweise für Werke, die nicht urheberrechtlich geschützt sind, und Hinweise für Werke, deren Urheberrechtsschutz unklar ist. Die Hinweise versorgen Nutzer mit einfach zu verstehenden Informationen über den Urheberrechtsschutz und Weiterverwendungs-Status der digitalen Objekte. Mit Ausnahme der beiden Hinweise für digitale Objekte, deren Urheberrechtsschutz unklar ist, sollten diese Hinweise erst verwendet werden, wenn der Urheberrechtsschutz des Werkes einwandfrei festgestellt wurde. Weitergehende Informationen darüber, wie die Rechtehinweise angewandt werden, finden Sie in [der Dokumentation]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

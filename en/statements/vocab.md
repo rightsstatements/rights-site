@@ -46,7 +46,7 @@ The rights statements have been specifically developed for the needs of cultural
   </div>
 </div>
 <div>
-  <p>The rights statements fall in three categories: Statements for works that are in copyright, statements for works that are not in copyright and statements for works where the copyright status is unclear. The statements provide end users with easy to understand high level information about the copyright and re-use status of digital objects. With the exception of the two statements for objects with an unclear copyright status, these statements should only be applied after the copyright status of a work has been established. You can find more information about how to apply the rights statements in the [documentation section](/en/documentation).</p>
+  <p>The rights statements fall in three categories: Statements for works that are in copyright, statements for works that are not in copyright and statements for works where the copyright status is unclear. The statements provide end users with easy to understand high level information about the copyright and re-use status of digital objects. With the exception of the two statements for objects with an unclear copyright status, these statements should only be applied after the copyright status of a work has been established. You can find more information about how to apply the rights statements in the [documentation section]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

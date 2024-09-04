@@ -46,7 +46,7 @@ Käyttöoikeuskuvaukset on suunniteltu erityisesti kulttuuriperintölaitosten ja
   </div>
 </div>
 <div>
-  <p>Käyttöoikeuskuvauksia on kolmenlaisille teoksille: tekijänoikeuden suojaamille, tekijänoikeudellisen suojan ulkopuolelle jääville sekä teoksille, joiden tekijänoikeudellinen status on epäselvä. Käyttöoikeuskuvaukset tarjoavat loppukäyttäjälle helposti ymmärrettävää ja korkealaatuista tietoa digitaalisten objektien tekijänoikeudellisesta ja uudelleenkäyttöä koskevasta tilanteesta. Käyttöoikeuskuvauksia tulisi käyttää vain silloin kun teoksen tekijänoikeudellinen status on kyetty määrittämään, poikkeuksena kaksi käyttöoikeuskuvausta, jotka koskevat teoksia, joiden tekijänoikeusstatus on epäselvä. Käyttöoikeuskuvauksien soveltamisesta löydät lisätietoa [dokumentaatio-osiosta](/en/documentation).</p>
+  <p>Käyttöoikeuskuvauksia on kolmenlaisille teoksille: tekijänoikeuden suojaamille, tekijänoikeudellisen suojan ulkopuolelle jääville sekä teoksille, joiden tekijänoikeudellinen status on epäselvä. Käyttöoikeuskuvaukset tarjoavat loppukäyttäjälle helposti ymmärrettävää ja korkealaatuista tietoa digitaalisten objektien tekijänoikeudellisesta ja uudelleenkäyttöä koskevasta tilanteesta. Käyttöoikeuskuvauksia tulisi käyttää vain silloin kun teoksen tekijänoikeudellinen status on kyetty määrittämään, poikkeuksena kaksi käyttöoikeuskuvausta, jotka koskevat teoksia, joiden tekijänoikeusstatus on epäselvä. Käyttöoikeuskuvauksien soveltamisesta löydät lisätietoa [dokumentaatio-osiosta]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

@@ -45,7 +45,7 @@ Oświadczenia prawne zostały opracowane wyłącznie na potrzeby instytucji dzie
   </div>
 </div>
 <div>
-  <p>Oświadczenia prawne dzielą się na trzy kategorie: oświadczenia dla utworów, które są objęte pełną ochroną prawnoautorską, oświadczenia dla utworów które takiej pełnej ochrony nie posiadają oraz oświadczenia dla utworów, których status prawnoautorski jest niejasny. Oświadczenia ułatwiają użytkownikom zrozumienie ogólnych informacji związanych ze statusem obiektów cyfrowych w kontekście majątkowych praw autorskich i możliwości ponownego wykorzystania tych obiektów. Za wyjątkiem dwóch oświadczeń dla obiektów o niejasnym statusie prawnoautorskim, oświadczenia powinny być stosowane wyłącznie po określeniu takiego statusu. Więcej informacji na temat zasad stosowania oświadczeń prawnych można znaleźć w sekcji z [dokumentacją](/en/documentation).</p>
+  <p>Oświadczenia prawne dzielą się na trzy kategorie: oświadczenia dla utworów, które są objęte pełną ochroną prawnoautorską, oświadczenia dla utworów które takiej pełnej ochrony nie posiadają oraz oświadczenia dla utworów, których status prawnoautorski jest niejasny. Oświadczenia ułatwiają użytkownikom zrozumienie ogólnych informacji związanych ze statusem obiektów cyfrowych w kontekście majątkowych praw autorskich i możliwości ponownego wykorzystania tych obiektów. Za wyjątkiem dwóch oświadczeń dla obiektów o niejasnym statusie prawnoautorskim, oświadczenia powinny być stosowane wyłącznie po określeniu takiego statusu. Więcej informacji na temat zasad stosowania oświadczeń prawnych można znaleźć w sekcji z [dokumentacją]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

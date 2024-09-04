@@ -7,7 +7,7 @@ filename: translations
 ---
 # Translations of the rights statements
 
-The rights statements and underlying infrastructure of rightsstatements.org have been designed to work internationally in many languages. At the moment our rights statements are only available in English. If you are interested in working with us on translating the rights statements please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org). Translations of the rights statements need to be produced in line with our [translation policy](/en/documentation/translation-policy/) which you can find on our [Documentation](/en/documentation/) page.
+The rights statements and underlying infrastructure of rightsstatements.org have been designed to work internationally in many languages. At the moment our rights statements are only available in English. If you are interested in working with us on translating the rights statements please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org). Translations of the rights statements need to be produced in line with our [translation policy]({{site.url}}/en/documentation/translation-policy/) which you can find on our [Documentation]({{site.url}}/en/documentation/) page.
 
 <div class="box">
 
@@ -30,7 +30,7 @@ The rights statements have been translated into the following languages:
 
 ## Translations under public review
 
-As described in our [translation policy](/en/documentation/translation-policy/), every draft translation is published for a public comment period of 4
+As described in our [translation policy]({{site.url}}/en/documentation/translation-policy/), every draft translation is published for a public comment period of 4
 weeks. If you wish to review a draft translation, please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org) indicating the language that you wish to review.
 
 We will give you access to the system we use for this purpose so that you can complete your revision. The feedback from the public comment period will be addressed by the translation partner together with the reviewer(s).

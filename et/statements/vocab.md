@@ -45,7 +45,7 @@ Autoriõigusliku seisundi deklaratsioonide väljatöötamisel on lähtutud mälu
   </div>
 </div>
 <div>
-  <p>Autoriõigusliku seisundi deklaratsioonid jagunevad kolme kategooriasse: deklaratsioonid teostele, millele kehtib autoriõigus; deklaratsioonid teostele, millele ei kehti autoriõigus; deklaratsioonid teostele, mille autoriõiguslik seisund on ebaselge. Deklaratsioonid annavad kergesti loetavat kõrgtaseme informatsiooni digitaalsete objektide autoriõigusliku seisundi ja taaskasutussõiguste kohta. Kõigil juhtudel peale kahe deklaratsiooni, mis puudutavad ebaselge autoriõigusliku seisundiga objekte võib teose deklaratsiooniga märgistada alles pärast selle autoriõigusliku seisundi tuvastamist. Rohkem informatsiooni objektide autoriõigusliku seisundi deklaratsioonidega märgistamise kohta leiab [dokumentatsioonilehelt](/en/documentation).</p>
+  <p>Autoriõigusliku seisundi deklaratsioonid jagunevad kolme kategooriasse: deklaratsioonid teostele, millele kehtib autoriõigus; deklaratsioonid teostele, millele ei kehti autoriõigus; deklaratsioonid teostele, mille autoriõiguslik seisund on ebaselge. Deklaratsioonid annavad kergesti loetavat kõrgtaseme informatsiooni digitaalsete objektide autoriõigusliku seisundi ja taaskasutussõiguste kohta. Kõigil juhtudel peale kahe deklaratsiooni, mis puudutavad ebaselge autoriõigusliku seisundiga objekte võib teose deklaratsiooniga märgistada alles pärast selle autoriõigusliku seisundi tuvastamist. Rohkem informatsiooni objektide autoriõigusliku seisundi deklaratsioonidega märgistamise kohta leiab [dokumentatsioonilehelt]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>
