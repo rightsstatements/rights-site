@@ -26,35 +26,35 @@ In the online environment the rights statements should be used by linking to the
 1) Using the button provided by RightsStatements.org and linking the button image to the rights statement URI:
 
 <blockquote>
-<a href="https://rightsstatements.org/vocab/InC-EDU/1.0/">
+<a href="{{site.url}}/vocab/InC-EDU/1.0/">
     <img height="31" width="144" alt="In Copyright - Educational Use Permitted"
-      src="https://rightsstatements.org/files/buttons/InC-EDU.dark-white-interior.png"
+      src="{{site.url}}/files/buttons/InC-EDU.dark-white-interior.png"
     />
 </a>
 </blockquote>
 This can be done by using the following bit of code (using the example of the [In Copyright - Educational Use Permitted]({{site.url}}/vocab/InC-EDU/1.0/") statement):
 
-    <a href="{{site.url}}/vocab/InC-EDU/1.0/">
+    <a href="https://rightsstatements.org/vocab/InC-EDU/1.0/">
         <img height="31" alt="In Copyright - Educational Use Permitted"
-          src="{{site.url}}/files/buttons/InC-EDU.dark-white-interior.png"/>
+          src="https://rightsstatements.org/files/buttons/InC-EDU.dark-white-interior.png"/>
     </a>
 
 <br/>
 2) Using an image of the category icon followed by the full name of the rights statement and linking the full name of the rights statement to the URI of the rights statement.
 
 <blockquote>
-<img src="https://rightsstatements.org/files/icons/InC.Icon-Only.dark.svg"
+<img src="{{site.url}}/files/icons/InC.Icon-Only.dark.svg"
   height="15" width="15" alt="In Copyright - Educational Use Permitted" />
-<a href="https://rightsstatements.org/vocab/InC-EDU/1.0/">
+<a href="{{site.url}}/vocab/InC-EDU/1.0/">
     In Copyright - Educational Use Permitted
 </a>
 </blockquote>
 
 This can be done by using the following bit of code (using the example of the [In Copyright - Educational Use Permitted]({{site.url}}/vocab/InC-EDU/1.0/") statement):
 
-    <img src="{{site.url}}/files/icons/InC.Icon-Only.dark.svg"
+    <img src="https://rightsstatements.org/files/icons/InC.Icon-Only.dark.svg"
       height="15" width="15" alt="In Copyright - Educational Use Permitted" />
-    <a href="{{site.url}}/vocab/InC-EDU/1.0/">
+    <a href="https://rightsstatements.org/vocab/InC-EDU/1.0/">
         In Copyright - Educational Use Permitted
     </a>
 
@@ -62,7 +62,7 @@ This can be done by using the following bit of code (using the example of the [I
 3) Using the full name of the rights statement as a link to the URI of the rights statement.
 
 <blockquote>
-<a href="https://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</a>
+<a href="{{site.url}}/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</a>
 </blockquote>
 
     <a href="https://rightsstatements.org/vocab/InC-EDU/1.0/">
