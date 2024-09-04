@@ -6,9 +6,9 @@ date: 2019-05-24 12:00:00
 ---
 _Richard J. Urban, Ph.D., Digital Asset Manager & Strategist, [Corning Museum Of Glass](https://www.cmog.org/)_
 
-The [previous post]({{site.app_url}}/en/2018/12/where-statements-apply.html) discussed how the rights statements provided by RightsStatements.org may apply to different kinds of _digital_ or _original_ works. While these rights statements were designed primarily for use in the context of digitization of material culture (for example, Europeana and DPLA), this post outlines the complexities of the relationships between an original artifact and its digital surrogate.
+The [previous post]({{site.url}}/en/2018/12/where-statements-apply.html) discussed how the rights statements provided by RightsStatements.org may apply to different kinds of _digital_ or _original_ works. While these rights statements were designed primarily for use in the context of digitization of material culture (for example, Europeana and DPLA), this post outlines the complexities of the relationships between an original artifact and its digital surrogate.
 
-In the [_Requirements for the Technical Infrastructure for Standardized International Rights Statements_]({{site.app_url}}/files/180117requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.2.1.pdf) the RightsStatements.org Technical Working Group has outlined an answer to the question of what a rights statement is "about" by providing examples of how statements may be used within specific metadata standards.  Each of these standards and best practices have different ways of resolving the "aboutness" of statements.
+In the [_Requirements for the Technical Infrastructure for Standardized International Rights Statements_]({{site.url}}/files/180117requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.2.1.pdf) the RightsStatements.org Technical Working Group has outlined an answer to the question of what a rights statement is "about" by providing examples of how statements may be used within specific metadata standards.  Each of these standards and best practices have different ways of resolving the "aboutness" of statements.
 
 In order to provide a technical infrastructure for the rights statements, the Technical Working Group choose to model the statements as a Simple Knowledge Organization ([SKOS](https://www.w3.org/2004/02/skos/)) vocabulary. SKOS is commonly used for representing knowledge organization structures, such as thesauri, taxonomies, and subject headings. We felt that the purpose of the rights statements was to perform a similar function within the information systems provided by DPLA and Europeana. Just as the "subject" of a book requires analysis by a cataloger, we felt the myriad ways cultural heritage organizations expressed rights over cultural resources could be classified by a well organized vocabulary of terms. The purpose of the statements was not to provide a legally binding license. Rather, a rights statement represents a judgment about a complex and interwoven legal state-of-affairs in order to facilitate finding, identifying, and obtaining cultural resources online.
 
@@ -18,7 +18,7 @@ Further, our Technical Working Group  has declared each rights statement to also
 
 However, this does not directly answer what a rights statement is about. If we understand metadata to make assertions about _resources_ ("Anything can be a resource, including physical things, documents, abstract concepts..."), a property like dc:rights can be used to describe any identified resource. So for a simple Dublin Core example of an In Copyright resource:
 
-<img src="{{site.baseurl}}/files/images/2019-05-06-what-are-rights-statements-about-figure1.svg" alt="Figure 1: The grammar of a Dublin Core rights statement." width="500"/>
+<img src="{{site.url}}/files/images/2019-05-06-what-are-rights-statements-about-figure1.svg" alt="Figure 1: The grammar of a Dublin Core rights statement." width="500"/>
 
 _Figure 1: The grammar of a Dublin Core rights statement._
 
@@ -26,7 +26,7 @@ It is the responsibility of your metadata model to define what kinds of resource
 
 For example, both Europeana and DPLA use fairly general-purpose metadata properties for expressing rights (dc:rights or its specialization edm:rights, for more details see specifications of the [Europeana Data Model](https://pro.europeana.eu/edm-documentation) and the [DPLA Metadata Application Profile](https://dp.la/info/map)). Their metadata models allow many elements to be attributed to resources that represent the original work (edm:ProvidedCHO or dpla:SourceResource) or belong to the level of digital representations (edm:WebResource, ore:Aggregation). But when using a rights statement in the context of an Europeana Data Model (EDM) metadata, the edm:rights property expects the subject of an assertion to be an edm:WebResource or an Aggregation of such resources. In this context, the rights statement will thus always be _about_ the rights status of a digital representation. (Because DPLA's Metadata Application Profile is based on EDM, it also associates edm:rights with a edm:WebResource).
 
-<img src="{{site.baseurl}}/files/images/2019-05-06-what-are-rights-statements-about-figure2.svg" alt="Figure 2: In Copyright rights statement classification of a Europeana WebResource." width="500"/>
+<img src="{{site.url}}/files/images/2019-05-06-what-are-rights-statements-about-figure2.svg" alt="Figure 2: In Copyright rights statement classification of a Europeana WebResource." width="500"/>
 
  _Figure 2: In Copyright rights statement classification of a Europeana WebResource._
 

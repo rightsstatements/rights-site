@@ -12,7 +12,8 @@
         <div class="large-8 columns">
           <h3><a href="{% endraw %}{{ site.app_url }}/page/{% raw %}{{ identifier }}/{% endraw %}{{ site.rights_data_version }}/?language={{ page.lang }}">{% raw %}{{ prefLabel.[@value] }}</a></h3>
           <p>{{ scopeNote.[@value] }}</p>
-          <p>URI: {{a [@id] }}</p>
+<!--          <p>URI: {{a [@id] }}</p>-->
+          <p>URI: <a href="{% endraw %}{{ site.app_url }}/page/{% raw %}{{ identifier }}/{% endraw %}{{ site.rights_data_version }}/?language={{ page.lang }}"> {{ site.app_url }}/page/{% raw %}{{ identifier }}/{% endraw %}{{ site.rights_data_version }}/?language={{ page.lang }}{% raw %}</a></p>
         </div>
       </div>
     </div>
