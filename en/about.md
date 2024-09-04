@@ -9,7 +9,7 @@ filename: about
 
 We believe that everyone should be able to engage with their cultural heritage online, and we are not alone in this - libraries, archives and museums around the world are also looking for ways to improve access to and reuse of their digital collections.
 
-We want to help cultural heritage institutions work towards this vision by making it easier for users to understand what they can do with a digital object they discover. Our work is driven by the absence of a global approach to addressing this. No other systems meet the specific needs of a broad range of cultural heritage organisations, which has led to a proliferation of terms. This has led to confusion for the organisations and the users.
+We want to help cultural heritage institutions work towards this vision by making it easier for users to understand what they can do with a digital object they discover. Our work is driven by the absence of a global approach to addressing this. No other systems meet the specific needs of a broad range of cultural heritage organisations, which has led to a proliferation of terms and to confusion for the organisations and the users.
 
 ## Providing standardised interoperable rights and reuse information
 
