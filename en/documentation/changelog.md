@@ -26,15 +26,15 @@ Added Lithuanian translation of [version 1.0 of the rights statements]({{site.ap
 
 #### 2019-12-03
 
-Added Hindi translation of [version 1.0 of the rights statements]({{site.app_url}}/page/1.0/?language=hi), and the [home page]({{site.app_url}}/hi/).
+Added Hindi translation of [version 1.0 of the rights statements]({{site.app_url}}/page/1.0/?language=hi), and the [home page]({{site.url}}/hi/).
 
 ### 2018-06-08
 
-Added Estonian translation of [version 1.0 the rights statements]({{site.app_url}}/page/1.0/?language=et), and the [home page]({{site.app_url}}/et/). See the [translation document]({{site.url}}/files/180606RS_1.0_translation_EE_approved.pdf) for a documentation of the translation process.
+Added Estonian translation of [version 1.0 the rights statements]({{site.app_url}}/page/1.0/?language=et), and the [home page]({{site.url}}/et/). See the [translation document]({{site.url}}/files/180606RS_1.0_translation_EE_approved.pdf) for a documentation of the translation process.
 
 ### 2018-06-05
 
-Added German translation of [version 1.0 the rights statements]({{site.app_url}}/page/1.0/?language=de), and the [home page]({{site.app_url}}/de/). See the [translation document]({{site.url}}/files/180531RS_1.0_translation_DE_approved.pdf) for a documentation of the translation process.
+Added German translation of [version 1.0 the rights statements]({{site.app_url}}/page/1.0/?language=de), and the [home page]({{site.url}}/de/). See the [translation document]({{site.url}}/files/180531RS_1.0_translation_DE_approved.pdf) for a documentation of the translation process.
 
 ### 2018-05-31
 
