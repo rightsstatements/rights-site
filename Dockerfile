@@ -7,6 +7,7 @@ EXPOSE 4000
 ENV JEKYLL_ENV=production
 RUN bundle install && bundle exec jekyll build
 
+CMD ["bundle", "exec","jekyll", "build", "-c","_config.yml,_environment.yml"]
 CMD ["bundle", "exec","jekyll", "serve", "-c","_config.yml,_environment.yml","--host","0.0.0.0"]
 
 #FROM nginx:1.19.2-alpine AS final
