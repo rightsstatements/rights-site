@@ -75,5 +75,5 @@ New images can be added by pressing the button in the editor.
 Other files must be added as markdown.
 
 ```
-[PDF](/files/160611proposal_for_implementation_UND.pdf)
+[PDF]({{site.url}}/files/160611proposal_for_implementation_UND.pdf)
 ```

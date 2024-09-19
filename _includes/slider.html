@@ -4,7 +4,7 @@
     {% for slide in site.data.slides %}
       <li>
         <div class="rounded-corners">
-          <img src="{{ site.baseurl }}/files/images/{{slide.image}}" />
+          <img src="{{ site.url }}{{ site.baseurl }}/files/images/{{slide.image}}" />
         </div>
         <div class='orbit-caption caption-{{ slide.desc_location }}'>
           <div class='row rounded-corners'>

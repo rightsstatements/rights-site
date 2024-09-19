@@ -20,7 +20,7 @@ Estas declaraciones de derechos han sido específicamente desarrolladas para las
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>Protegido por derecho de autor</h3></a>
       <a href="#collection-ic">
-        <img src="{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
       </a>
       <p>Declaraciones para obras que están protegidas por derecho de autor</p>
     </div>
@@ -29,7 +29,7 @@ Estas declaraciones de derechos han sido específicamente desarrolladas para las
     <div class="statements-category-teaser">
       <a href="#collection-nc"><h3>Sin derecho de autor</h3></a>
       <a href="#collection-nc">
-        <img src="{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
       </a>
       <p>Declaraciones para obras que no están protegidas por derecho de autor</p>
     </div>
@@ -38,14 +38,14 @@ Estas declaraciones de derechos han sido específicamente desarrolladas para las
     <div class="statements-category-teaser">
       <a href="#collection-other"><h3>Otras</h3></a>
       <a href="#collection-other">
-        <img src="{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
       </a>
       <p>Declaraciones para obras cuyo estado de derecho de autor es poco claro</p>
     </div>
   </div>
 </div>
 <div>
-  <p>Estas declaraciones de derechos caen bajo tres categorías: declaraciones para obras que están protegidas por derecho de autor, declaraciones para obras que no están protegidas por derecho de autor y declaraciones para obras cuyo estado de derecho de autor no es claro. Estas declaraciones proveen a los usuarios finales con información de alto nivel y fácil de entender sobre el estado del derecho de autor y de reutilización de los objetos digitales. Con la excepción de las dos declaraciones para objetos con un estado de derecho de autor poco claro, estas declaraciones solamente deberían ser aplicadas luego de que el estado de derecho de autor de una obra ha sido determinado. Puede encontrar más información sobre cómo aplicar las declaraciones de derechos en la [sección de documentación](/en/documentation).</p>
+  <p>Estas declaraciones de derechos caen bajo tres categorías: declaraciones para obras que están protegidas por derecho de autor, declaraciones para obras que no están protegidas por derecho de autor y declaraciones para obras cuyo estado de derecho de autor no es claro. Estas declaraciones proveen a los usuarios finales con información de alto nivel y fácil de entender sobre el estado del derecho de autor y de reutilización de los objetos digitales. Con la excepción de las dos declaraciones para objetos con un estado de derecho de autor poco claro, estas declaraciones solamente deberían ser aplicadas luego de que el estado de derecho de autor de una obra ha sido determinado. Puede encontrar más información sobre cómo aplicar las declaraciones de derechos en la [sección de documentación]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

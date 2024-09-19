@@ -21,7 +21,7 @@ Käyttöoikeuskuvaukset on suunniteltu erityisesti kulttuuriperintölaitosten ja
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>Tekijänoikeuden piirissä</h3></a>
       <a href="#collection-ic">
-        <img src="{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
       </a>
       <p>Kuvaukset tekijänoikeuden suojaamille teoksille</p>
     </div>
@@ -30,7 +30,7 @@ Käyttöoikeuskuvaukset on suunniteltu erityisesti kulttuuriperintölaitosten ja
     <div class="statements-category-teaser">
       <a href="#collection-nc"><h3>Ei tekijänoikeutta</h3></a>
       <a href="#collection-nc">
-        <img src="{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
       </a>
       <p>Kuvaukset teoksille, joita tekijänoikeus ei suojaa</p>
     </div>
@@ -39,14 +39,14 @@ Käyttöoikeuskuvaukset on suunniteltu erityisesti kulttuuriperintölaitosten ja
     <div class="statements-category-teaser">
       <a href="#collection-other"><h3>Muut</h3></a>
       <a href="#collection-other">
-        <img src="{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
       </a>
       <p>Kuvaukset teoksille, joiden tekijänoikeudellinen status on epäselvä</p>
     </div>
   </div>
 </div>
 <div>
-  <p>Käyttöoikeuskuvauksia on kolmenlaisille teoksille: tekijänoikeuden suojaamille, tekijänoikeudellisen suojan ulkopuolelle jääville sekä teoksille, joiden tekijänoikeudellinen status on epäselvä. Käyttöoikeuskuvaukset tarjoavat loppukäyttäjälle helposti ymmärrettävää ja korkealaatuista tietoa digitaalisten objektien tekijänoikeudellisesta ja uudelleenkäyttöä koskevasta tilanteesta. Käyttöoikeuskuvauksia tulisi käyttää vain silloin kun teoksen tekijänoikeudellinen status on kyetty määrittämään, poikkeuksena kaksi käyttöoikeuskuvausta, jotka koskevat teoksia, joiden tekijänoikeusstatus on epäselvä. Käyttöoikeuskuvauksien soveltamisesta löydät lisätietoa [dokumentaatio-osiosta](/en/documentation).</p>
+  <p>Käyttöoikeuskuvauksia on kolmenlaisille teoksille: tekijänoikeuden suojaamille, tekijänoikeudellisen suojan ulkopuolelle jääville sekä teoksille, joiden tekijänoikeudellinen status on epäselvä. Käyttöoikeuskuvaukset tarjoavat loppukäyttäjälle helposti ymmärrettävää ja korkealaatuista tietoa digitaalisten objektien tekijänoikeudellisesta ja uudelleenkäyttöä koskevasta tilanteesta. Käyttöoikeuskuvauksia tulisi käyttää vain silloin kun teoksen tekijänoikeudellinen status on kyetty määrittämään, poikkeuksena kaksi käyttöoikeuskuvausta, jotka koskevat teoksia, joiden tekijänoikeusstatus on epäselvä. Käyttöoikeuskuvauksien soveltamisesta löydät lisätietoa [dokumentaatio-osiosta]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

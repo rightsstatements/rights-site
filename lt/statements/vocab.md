@@ -45,7 +45,7 @@ Teisių pareikštys sukurtos specialiai atminties institucijų ir internetinių 
 </div>
 </div>
 <div>
-<p>Teisių pareikštys gali būti suskirstytos į tris kategorijas: Pareikštys autorių teisių saugomiems objektams, Pareikštys objektams, kurių autorių teisės nesaugo ir Pareikštys objektams, kurių autorių teisių būsena yra neaiški. Pareikštyse pateikiama naudotojui lengvai suprantama informacija apie skaitmeninius objektus saugančių autorių teisių rėžimą ir galimybes juos panaudoti pakartotinai. Išskyrus dvi pareikštis, specialiai skirtas ženklinti objektus, kurių autorių teisių būsena nėra žinoma, pareikštys turėtų būti taikomos tik po to, kai identifikuojamos objektą saugančios autorinės teisės. Daugiau informacijos apie tai, kaip taikyti teisių pareikštis, galite rasti skyriuje [„Dokumentai“](/en/documentation).</p>
+<p>Teisių pareikštys gali būti suskirstytos į tris kategorijas: Pareikštys autorių teisių saugomiems objektams, Pareikštys objektams, kurių autorių teisės nesaugo ir Pareikštys objektams, kurių autorių teisių būsena yra neaiški. Pareikštyse pateikiama naudotojui lengvai suprantama informacija apie skaitmeninius objektus saugančių autorių teisių rėžimą ir galimybes juos panaudoti pakartotinai. Išskyrus dvi pareikštis, specialiai skirtas ženklinti objektus, kurių autorių teisių būsena nėra žinoma, pareikštys turėtų būti taikomos tik po to, kai identifikuojamos objektą saugančios autorinės teisės. Daugiau informacijos apie tai, kaip taikyti teisių pareikštis, galite rasti skyriuje [„Dokumentai“]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

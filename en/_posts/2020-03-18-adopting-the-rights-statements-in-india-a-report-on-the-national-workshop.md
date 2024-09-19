@@ -32,13 +32,13 @@ In the summary session Prof. Prabuddha Ganguli presented a plan forward. The key
 
 The following flowchart that was produced at the end of the session summarizes the general understanding of a combined rights clearance and rights labelling approach:
 
-![Rights Statements Flowchart](/files/rs.org-flowchart.png "Rights Statements Flowchart")
+![Rights Statements Flowchart]({{site.url}}/files/rs.org-flowchart.png "Rights Statements Flowchart")
 
 ## National Workshop
 
 The public workshop on the afternoon of the 7th and on the 8th of September was the first opportunity for many attendees to learn about Rights Statements and ask questions about the value of making rights status determinations. Attendees of several cultural heritage organizations from across India joined the attendees of the pre-workshop brainstorming session. Students from the law school also sat in to listen to the conversation. After opening the meeting, Prof. Partha Pratim Das spelled out the objectives of the workshop. The stated goal was to learn more about Rights Statements, determine if they would work within the Indian context, and understand why using standardized statements helps users.
 
-![National Workshop ](/files/national-workshop-ndli.jpeg "National Workshop")
+![National Workshop ]({{site.url}}/files/national-workshop-ndli.jpeg "National Workshop")
 
 Profs. Prabuddha Ganguli and Shreya Matilal presented their findings on the Rights Statements and their fitment for purpose in India. After walking the attendees through some basic copyright fundamentals, there were many questions about copyright law generally. The volume and intensity of the questions underscored the need for simple, clear summaries of and best practices for copyright. There was a lot of interest in better understanding the exceptions and limitations in Indian law that cultural heritage organizations could rely on to make their collections more broadly available to the public.
 
@@ -46,7 +46,7 @@ Paul Keller and Greg Cram rehashed their presentation, incorporating feedback fr
 
 On the second day, representatives from cultural heritage institutions shared information about their organization, their collection, and whether they would be willing to adopt adding a rights statement to their digitized objects. Most institutions expressed their intention to adopt rights labeling. Some institutions identified hurdles to adoption, such as training for those working on digital projects or lack of technical infrastructure to support a rights determination field.
 
-![National Workshop](/files/national-workshop-ndli-2.jpeg "National Workshop")
+![National Workshop]({{site.url}}/files/national-workshop-ndli-2.jpeg "National Workshop")
 
 Professors Ganguli and Das then discussed what the next steps were to be for NDLI and the participants. Professor Ganguli offered to create a handbook of copyright for librarians and archivists. In addition to the handbook, the professors suggested creating a set of regional meetings to spread the word about rightsstatements.org and the benefits to adoption.
 
