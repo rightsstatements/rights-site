@@ -11,21 +11,21 @@ spec:
           image: europeana/rights-app-website
           ports:
             - containerPort: 4000
-#          livenessProbe:
-#            httpGet:
-#              port: 8080
-#              path: /actuator/health/liveness
-#              httpHeaders:
-#                - name: Accept
-#                  value: application/json
-#            initialDelaySeconds: 90
-#            periodSeconds: 60
-#          readinessProbe:
-#            httpGet:
-#              port: 8080
-#              path: /actuator/health/readiness
-#              httpHeaders:
-#                - name: Accept
-#                  value: application/json
-#            initialDelaySeconds: 60
-#            periodSeconds: 60
+          livenessProbe:
+            httpGet:
+              port: 4000
+              path: /en/
+              httpHeaders:
+                - name: Accept
+                  value: application/json
+            initialDelaySeconds: 10
+            periodSeconds: 10
+          readinessProbe:
+            httpGet:
+              port: 4000
+              path: /en/
+              httpHeaders:
+                - name: Accept
+                  value: application/json
+            initialDelaySeconds: 10
+            periodSeconds: 10
