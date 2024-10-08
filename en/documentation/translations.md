@@ -26,7 +26,7 @@ The rights statements have been translated into the following languages:
 * [Dutch]({{site.app_url}}/page/1.0/?language=nl) - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Reviewed by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink).
 * [Italian]({{site.app_url}}/page/1.0/?language=it) - Translation partner Marina Cotugno, [Juliafoto](https://www.juliafoto.it/about-us/). Review by Antonella De Robbio, Coordinator of [Gruppo di studio Open Access e Pubblico Dominio (GOAPD)](https://www.aib.it/struttura/commissioni-e-gruppi/gruppo-studio-open-access-pubblico-dominio/) at the Associazione Italiana Biblioteche*,* and Andrea Zanni, [MLOL](https://medialibrary.it/home/cover.aspx).
 * [Croatian]({{site.app_url}}/page/1.0/?language=hr) - Translation partner: [National and University Library in Zagreb](https://www.nsk.hr/en/). Review by [Croatian State Intellectual Property Office](https://www.dziv.hr/en/).
-* [Catalan]({{site.url}}/page/1.0/?language=) - Translation partner: [Legalment](https://www.legalment.net/). Review by Brigit Nonó, [Universitat de Girona - Biblioteca](https://www.udg.edu/ca/estructura/serveis/servei?ID=81), and Ariadna Matas, [Europeana Foundation](http://europeana.eu/)
+* [Catalan]({{site.url}}/page/1.0/?language=ca) - Translation partner: [Legalment](https://www.legalment.net/). Review by Brigit Nonó, [Universitat de Girona - Biblioteca](https://www.udg.edu/ca/estructura/serveis/servei?ID=81), and Ariadna Matas, [Europeana Foundation](http://europeana.eu/)
 
 ## Translations under public review
 
