@@ -1,4 +1,8 @@
 name: rightsstatements-website
+app_url : https://rightsstatements.org
+url: https://rightsstatements.org
+canonical_url: https://rightsstatements.org
+cookie_domain: rightsstatements.org
 markdown: kramdown
 kramdown:
   parse_block_html: true
