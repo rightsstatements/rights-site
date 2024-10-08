@@ -1,7 +1,4 @@
 name: rightsstatements-website
-url:
-canonical_url:
-app_url :
 markdown: kramdown
 kramdown:
   parse_block_html: true
