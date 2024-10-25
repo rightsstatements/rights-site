@@ -1,8 +1,9 @@
 name: rightsstatements-website
-app_url : https://rightsstatements.org
-url: https://rightsstatements.org
-canonical_url: https://rightsstatements.org
-cookie_domain: rightsstatements.org
+#Below 4 properties defined as part of jenkins config in environemnt.yml file as they are environment specific
+#app_url : https://rightsstatements.org
+#url: https://rightsstatements.org
+#canonical_url: https://rightsstatements.org
+#cookie_domain: rightsstatements.org
 markdown: kramdown
 kramdown:
   parse_block_html: true
