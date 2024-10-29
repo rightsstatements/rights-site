@@ -1,9 +1,10 @@
 name: rightsstatements-website
-#Below 4 properties defined as part of jenkins config in environemnt.yml file as they are environment specific
+#Below commented properties defined as part of jenkins config in environemnt.yml file as they are environment specific
 #app_url : https://rightsstatements.org
 #url: https://rightsstatements.org
 #canonical_url: https://rightsstatements.org
 #cookie_domain: rightsstatements.org
+#matomo_analytics : true
 markdown: kramdown
 kramdown:
   parse_block_html: true
@@ -104,4 +105,3 @@ white_paper_rs_version: 180531recommendations_for_standardized_international_rig
 policy_editorial_version: 170612rs_editorial_policy.pdf
 policy_translation_version: 170612rs_translation_policy.pdf
 font_css_url: https://cloud.typography.com/7197296/6463212/css/fonts.css
-matomo_analytics : true

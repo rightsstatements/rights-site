@@ -2,3 +2,4 @@ app_url : http://localhost:9000
 url: http://localhost:4000
 canonical_url: http://localhost:9000
 cookie_domain: rightsstatements.org
+matomo_analytics : false
