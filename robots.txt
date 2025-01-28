@@ -1,0 +1,5 @@
+Sitemap: https://rightsstatements.org/sitemap.xml
+
+User-agent: *
+Disallow: /data/
+Crawl-delay: 10
