@@ -11,9 +11,9 @@
     <title>{% raw %}{{data.prefLabel.[@value]}}{% endraw %} | Rights Statements</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.0/foundation.min.css" />
     {% include cookies.html %}
-    <link href='{{ site.url }}/css/rights-stmt.css' rel='stylesheet'>
+    <link rel="stylesheet" href="{{ site.url }}/css/rights-stmt.css"/>
     <link rel="stylesheet" type="text/css" href="{{ site.font_css_url }}" />
-    {% if site.google_analytics %}{% include analytics.html %}{% endif %}
+    {% if site.matomo_analytics %}{% include analytics.html %}{% endif %}
 </head>
 
 {% raw %}
@@ -28,7 +28,8 @@
             <div class="row statement-main">
                 <div class="large-4 columns">
                     <div class="statement-iconcolumn">
-                        <img src="{% endraw %}{{ site.canonical_url }}{% raw %}/files/buttons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />
+{{!--                          <img src="{% endraw %}{{ site.canonical_url }}{% raw %}/files/buttons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />  --}}
+                        <img src="{% endraw %}{{ site.url }}{% raw %}/files/buttons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />
                     </div>
                 </div>
                 <div class="large-8 columns">

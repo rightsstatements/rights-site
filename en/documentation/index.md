@@ -13,9 +13,9 @@ Our rights statements have been specifically designed to be used by cultural her
 <div class="box">
 ## White Papers & Policies
 
-You can find more information about the rights statements and about the technical architecture of RightsStatements.org in our White Papers. The white paper ["Recommendations for Standardized International Rights Statements"](/en/documentation/rights-statements-white-paper/) outlines the design principle behind our rights statements and provides detailed information about each individual Rights Statement. The ["Requirements for the Technical Infrastructure for Standardized International Rights Statements"](/en/documentation/technical-white-paper/) white paper describes the technical underpinnings of our Rights Statements.
+You can find more information about the rights statements and about the technical architecture of RightsStatements.org in our White Papers. The white paper ["Recommendations for Standardized International Rights Statements"]({{site.url}}/en/documentation/rights-statements-white-paper/) outlines the design principle behind our rights statements and provides detailed information about each individual Rights Statement. The ["Requirements for the Technical Infrastructure for Standardized International Rights Statements"]({{site.url}}/en/documentation/technical-white-paper/) white paper describes the technical underpinnings of our Rights Statements.
 
-Changes to the published rights statements are governed by our [editorial policy](/en/documentation/editorial-policy/). Our [translation policy](/en/documentation/translation-policy/) outlines the process for creating [official translations](/en/documentation/translations.html) of our rights statements.
+Changes to the published rights statements are governed by our [editorial policy]({{site.url}}/en/documentation/editorial-policy/). Our [translation policy]({{site.url}}/en/documentation/translation-policy/) outlines the process for creating [official translations]({{site.url}}/en/documentation/translations.html) of our rights statements.
 </div>
 
 ## Use by cultural heritage institutions

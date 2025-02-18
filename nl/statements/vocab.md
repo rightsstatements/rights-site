@@ -45,7 +45,7 @@ De rechtenverklaringen zijn specifiek ontwikkeld voor de behoeften van erfgoedin
   </div>
 </div>
 <div>
-  <p>De rechtenverklaringen omvatten drie categorieën: verklaringen voor werken waarop auteursrechten rusten, verklaringen voor werken waarop geen auteursrechten rusten en verklaringen voor werken waarvan de auteursrechtelijke status niet duidelijk is. De verklaringen bieden eindgebruikers eenvoudig te begrijpen informatie op hoog niveau over de auteursrechtelijke en hergebruikstatus van digitale objecten. Met uitzondering van de twee verklaringen voor objecten met een niet duidelijke auteursrechtelijke status, mogen deze verklaringen alleen worden toegepast nadat de auteursrechtelijke status van een werk is vastgesteld. Meer informatie over het toepassen van de rechtenverklaringen vind je in de [documentatie sectie](/en/documentation).</p>
+  <p>De rechtenverklaringen omvatten drie categorieën: verklaringen voor werken waarop auteursrechten rusten, verklaringen voor werken waarop geen auteursrechten rusten en verklaringen voor werken waarvan de auteursrechtelijke status niet duidelijk is. De verklaringen bieden eindgebruikers eenvoudig te begrijpen informatie op hoog niveau over de auteursrechtelijke en hergebruikstatus van digitale objecten. Met uitzondering van de twee verklaringen voor objecten met een niet duidelijke auteursrechtelijke status, mogen deze verklaringen alleen worden toegepast nadat de auteursrechtelijke status van een werk is vastgesteld. Meer informatie over het toepassen van de rechtenverklaringen vind je in de [documentatie sectie]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

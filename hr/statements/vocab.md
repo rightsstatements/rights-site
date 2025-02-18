@@ -45,7 +45,7 @@ Izjave o pravima posebno su razvijene za potrebe baštinskih ustanova i mrežnih
   </div>
 </div>
 <div>
-  <p>Izjave o pravima podijeljene su u tri kategorije: Izjave za djela koja su zaštićena autorskim pravom, izjave za djela koja nisu zaštićena autorskim pravom i izjave za djela čiji je status autorskog prava nejasan. Izjave pružaju krajnjim korisnicima lako razumljive visokovrijedne informacije o statusu autorskog prava i mogućnosti ponovnog korištenja digitalnih objekata. S iznimkom dviju izjava za objekte s nejasnim statusom autorskog prava, ove izjave treba primijeniti tek nakon što se utvrdi status autorskog prava djela. Više informacija o tome kako primijeniti izjave o pravima možete pronaći u [odjeljku dokumentacija](/en/documentation).</p>
+  <p>Izjave o pravima podijeljene su u tri kategorije: Izjave za djela koja su zaštićena autorskim pravom, izjave za djela koja nisu zaštićena autorskim pravom i izjave za djela čiji je status autorskog prava nejasan. Izjave pružaju krajnjim korisnicima lako razumljive visokovrijedne informacije o statusu autorskog prava i mogućnosti ponovnog korištenja digitalnih objekata. S iznimkom dviju izjava za objekte s nejasnim statusom autorskog prava, ove izjave treba primijeniti tek nakon što se utvrdi status autorskog prava djela. Više informacija o tome kako primijeniti izjave o pravima možete pronaći u [odjeljku dokumentacija]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

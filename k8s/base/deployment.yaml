@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rights-app-website-deployment
+spec:
+  # selector.matchLabels is provided via Kustomize
+  template:
+    spec:
+      containers:
+        - name: rights-app-website
+          image: europeana/rights-app-website
+          ports:
+            - containerPort: 4000
+          livenessProbe:
+            httpGet:
+              port: 4000
+              path: /en/
+              httpHeaders:
+                - name: Accept
+                  value: application/json
+            initialDelaySeconds: 10
+            periodSeconds: 10
+          readinessProbe:
+            httpGet:
+              port: 4000
+              path: /en/
+              httpHeaders:
+                - name: Accept
+                  value: application/json
+            initialDelaySeconds: 10
+            periodSeconds: 10

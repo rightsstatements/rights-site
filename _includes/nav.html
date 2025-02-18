@@ -3,8 +3,8 @@
     <ul class='title-area'>
       <li class='name'>
         <h1>
-          <a href='{{ site.baseurl }}/{{page.lang}}/'>
-            <img src='{{ site.baseurl }}/files/images/logo.svg' alt="Rights Statements">
+          <a href='{{ site.url }}/{{page.lang}}/'>
+            <img src='{{ site.url }}/files/images/logo.svg' alt="Rights Statements">
           </a>
         </h1>
       </li>
@@ -29,7 +29,7 @@
           {% if item.path contains "//" %}
             {% capture href %}{{ item.path }}{% endcapture %}
           {% else %}
-            {% capture href %}{{ site.baseurl }}/{{ page.lang }}{{ item.path }}{% endcapture %}
+            {% capture href %}{{ site.url }}/{{ page.lang }}{{ item.path }}{% endcapture %}
           {% endif %}
           {% if item.children and site.default_language == page.lang %}
               <li class="has-dropdown {{active_class}}"><a href="{{ href }}">{{ label }}</a>
@@ -39,7 +39,7 @@
                   {% if child_path contains "//" %}
                     {% capture child_href %}{{ child_path }}{% endcapture %}
                   {% else %}
-                    {% capture child_href %}{{ site.baseurl }}/{{ page.lang }}{{ child_path }}{% endcapture %}
+                    {% capture child_href %}{{ site.url }}/{{ page.lang }}{{ child_path }}{% endcapture %}
                   {% endif %}
                   <li>
                     <a href="{{ child_href }}">{{ child.name }}</a>

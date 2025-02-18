@@ -4,7 +4,7 @@
   <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="3;url={{ site.baseurl }}/{{ site.default_language }}/">
+    <meta http-equiv="refresh" content="3;url={{ site.url }}/{{ site.default_language }}/">
     <script language="javascript">
       var user_language = (navigator.language || navigator.userLanguage).split('-')[0];
       var enabled_languages = [];
@@ -15,15 +15,15 @@
       {% endfor %}
       var default_language = "{{ site.default_language }}";
       if (enabled_languages.indexOf(user_language) != -1) {
-        window.location.href = "{{ site.baseurl }}/" + user_language + "/";
+        window.location.href = "{{ site.url }}/" + user_language + "/";
       } else {
-        window.location.href = "{{ site.baseurl }}/" + default_language + "/";
+        window.location.href = "{{ site.url }}/" + default_language + "/";
       }
     </script>
     <title>Page Redirection</title>
   </head>
   <body>
     If you are not redirected automatically, please click the link to continue to
-    <a href="{{ site.baseurl }}/{{ site.default_language }}/">{{ site.baseurl }}/{{ site.default_language }}/</a>.
+    <a href="{{ site.url }}/{{ site.default_language }}/">{{ site.url }}/{{ site.default_language }}/</a>.
   </body>
 </html>

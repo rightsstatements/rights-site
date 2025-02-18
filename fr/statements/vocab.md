@@ -20,7 +20,7 @@ Les déclarations des droits sont spécifiquement élaborées pour répondre aux
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>PROTECTION PAR LE DROIT D'AUTEUR</h3></a>
       <a href="#collection-ic">
-        <img src="{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
       </a>
       <p>Déclarations destinées aux œuvres protégées par le droit d'auteur</p>
     </div>
@@ -29,7 +29,7 @@ Les déclarations des droits sont spécifiquement élaborées pour répondre aux
     <div class="statements-category-teaser">
       <a href="#collection-nc"><h3>ABSENCE DE PROTECTION PAR LE DROIT D'AUTEUR</h3></a>
       <a href="#collection-nc">
-        <img src="{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
       </a>
       <p>Déclarations destinées aux œuvres non protégées par le droit d'auteur</p>
     </div>
@@ -38,7 +38,7 @@ Les déclarations des droits sont spécifiquement élaborées pour répondre aux
     <div class="statements-category-teaser">
       <a href="#collection-other"><h3>AUTRES</h3></a>
       <a href="#collection-other">
-        <img src="{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
       </a>
       <p>Déclarations destinées aux œuvres dont le statut en matière de droit d'auteur n'est pas clair.</p>
     </div>

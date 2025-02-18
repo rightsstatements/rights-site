@@ -12,14 +12,17 @@ RightsStatements.org is run by a consortium consisting of [Europeana](http://eur
 
 ### Find out how to use the rights statement in your organisation
 
-- check out our [documentation](http://rightsstatements.org/en/documentation/)
+- check out our [documentation]
 
 ### Interested in developing the statements in your native language?
 
-- read about our [translations](http://rightsstatements.org/en/documentation/translations.html) and get in touch
+- read about our [translations] and get in touch
 
 ### Keep up to date on the latest news
 
 - follow us on [Twitter](https://twitter.com/rightsstmts)
 
 If you're interested in finding out more information about membership of the consortium or the working groups, or have any other questions please [contact us](mailto:info@rightsstatements.org).
+
+[documentation]: {{site.url}}/en/documentation/
+[translations]: {{site.url}}/en/documentation/translations.html

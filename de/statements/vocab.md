@@ -20,7 +20,7 @@ Die Rechtehinweise wurden speziell für die Bedürfnisse der Kulturerbeeinrichtu
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>Urheberrechtsschutz</h3></a>
       <a href="#collection-ic">
-        <img src="{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
       </a>
       <p>Hinweise für Werke die urheberrechtlich geschützt sind</p>
     </div>
@@ -29,7 +29,7 @@ Die Rechtehinweise wurden speziell für die Bedürfnisse der Kulturerbeeinrichtu
     <div class="statements-category-teaser">
       <a href="#collection-nc"><h3>Kein Urheberrechtsschutz </h3></a>
       <a href="#collection-nc">
-        <img src="{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
       </a>
       <p>Hinweise für Werke die nicht urheberrechtlich geschützt sind</p>
     </div>
@@ -38,7 +38,7 @@ Die Rechtehinweise wurden speziell für die Bedürfnisse der Kulturerbeeinrichtu
     <div class="statements-category-teaser">
       <a href="#collection-other"><h3>Andere</h3></a>
       <a href="#collection-other">
-        <img src="{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
       </a>
       <p>Hinweise für Werke die nicht urheberrechtlich geschützt sind</p>
     </div>
@@ -46,7 +46,7 @@ Die Rechtehinweise wurden speziell für die Bedürfnisse der Kulturerbeeinrichtu
 </div>
 <div>
   <p>Es gibt drei unterschiedliche Kategorien von Rechtehinweisen:
-Hinweise für Werke, die urheberrechtlich geschützt sind, Hinweise für Werke, die nicht urheberrechtlich geschützt sind, und Hinweise für Werke, deren Urheberrechtsschutz unklar ist. Die Hinweise versorgen Nutzer mit einfach zu verstehenden Informationen über den Urheberrechtsschutz und Weiterverwendungs-Status der digitalen Objekte. Mit Ausnahme der beiden Hinweise für digitale Objekte, deren Urheberrechtsschutz unklar ist, sollten diese Hinweise erst verwendet werden, wenn der Urheberrechtsschutz des Werkes einwandfrei festgestellt wurde. Weitergehende Informationen darüber, wie die Rechtehinweise angewandt werden, finden Sie in [der Dokumentation](/en/documentation).</p>
+Hinweise für Werke, die urheberrechtlich geschützt sind, Hinweise für Werke, die nicht urheberrechtlich geschützt sind, und Hinweise für Werke, deren Urheberrechtsschutz unklar ist. Die Hinweise versorgen Nutzer mit einfach zu verstehenden Informationen über den Urheberrechtsschutz und Weiterverwendungs-Status der digitalen Objekte. Mit Ausnahme der beiden Hinweise für digitale Objekte, deren Urheberrechtsschutz unklar ist, sollten diese Hinweise erst verwendet werden, wenn der Urheberrechtsschutz des Werkes einwandfrei festgestellt wurde. Weitergehende Informationen darüber, wie die Rechtehinweise angewandt werden, finden Sie in [der Dokumentation]({{site.url}}/en/documentation).</p>
 </div>
 
 </div>

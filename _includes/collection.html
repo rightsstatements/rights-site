@@ -1,22 +1,23 @@
 <div markdown="0">
-{% raw %}
+  {% raw %}
   {{#resource "{% endraw %}http://rightsstatements.org/vocab/{{ include.collection_id }}/{{ site.rights_data_version }}/{% raw %}" data.[@graph]}}
     {{#property member data.[@graph] sort="prefLabel asc"}}
-      <div class="statement-box">
-        <div class="row">
-          <div class="large-4 columns">
-            <div class="statement-iconcolumn">
-              <a href="http://rightsstatements.org/page/{{ identifier }}/{% endraw %}{{ site.rights_data_version }}/?language={{ page.lang }}"><img src="{{ site.baseurl }}{% raw %}/files/buttons/{{ identifier }}.white.svg" title="{{ prefLabel.[@value] }}" /></a>
-            </div>
-          </div>
-          <div class="large-8 columns">
-            <h3><a href="http://rightsstatements.org/page/{{ identifier }}/{% endraw %}{{ site.rights_data_version }}/?language={{ page.lang }}">{% raw %}{{ prefLabel.[@value] }}</a></h3>
-            <p>{{ scopeNote.[@value] }}</p>
-            <p>URI: {{a [@id] }}</p>
+    <div class="statement-box">
+      <div class="row">
+        <div class="large-4 columns">
+          <div class="statement-iconcolumn">
+            <a href="{% endraw %}{{ site.app_url }}/page/{% raw %}{{ identifier }}{% endraw %}/{{ site.rights_data_version }}/?language={{ page.lang }}"><img src="{{ site.url }}{{ site.baseurl }}{% raw %}/files/buttons/{{ identifier }}.white.svg" title="{{ prefLabel.[@value] }}" /></a>
           </div>
         </div>
+        <div class="large-8 columns">
+          <h3><a href="{% endraw %}{{ site.app_url }}/page/{% raw %}{{ identifier }}/{% endraw %}{{ site.rights_data_version }}/?language={{ page.lang }}">{% raw %}{{ prefLabel.[@value] }}</a></h3>
+          <p>{{ scopeNote.[@value] }}</p>
+          <p>URI: {{a [@id] }}</p>
+<!--          <p>URI: <a href="{% endraw %}{{ site.app_url }}/vocab/{% raw %}{{ identifier }}/{% endraw %}{{ site.rights_data_version }}/"> {{ site.app_url }}/vocab/{% raw %}{{ identifier }}/{% endraw %}{{ site.rights_data_version }}/{% raw %}</a></p>-->
+        </div>
       </div>
+    </div>
     {{/property}}
   {{/resource}}
-{% endraw %}
+  {% endraw %}
 </div>
